@@ -26,3 +26,21 @@ let meuObjeto = {
   [id]: 123456,
 };
 console.log(meuObjeto[id]);
+
+// Data Types
+// Reference Data Types
+
+// Arrays - lista de itens dentro de uma variável
+
+let numbers = [10, 20, 30, 35, 50];
+console.log(numbers, typeof numbers);
+
+// Function
+function myName() {
+  console.log("Naruto");
+}
+console.log(myName, typeof myName);
+
+// Date - data
+let now = new Date();
+console.log(now);
