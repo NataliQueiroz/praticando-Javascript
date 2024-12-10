@@ -1,12 +1,5 @@
-// Operadores Aritméticos
-let total = 6 + 6; //Adição
-// total = 6 - 2; //Subtração
-// total = 6 * 2; // Multiplicação
-// total = 6 / 2; // Divisão
+// Operadores de Atribuição
 
-//total = 10 % 3; // % = resto da divisão
-//total++; // incremento
-// total--; // decremento
-//total = 2 ** 3; // Exponenciação
-
+let total = 3;
+total += 5; //adiciona +5, o símbolo += funciona para todas operações(+, -, * , /)
 console.log(total);
