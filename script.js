@@ -6,6 +6,6 @@
 
 let num1 = 6;
 let num2 = 6;
-let total = num1 + num2;
+let total = num1 + num2; // outra forma de fazer
 
 console.log(total);
