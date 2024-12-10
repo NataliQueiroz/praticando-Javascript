@@ -1,11 +1,12 @@
 // Operadores Aritméticos
-// let total = 6 + 6; //Adição
+let total = 6 + 6; //Adição
 // total = 6 - 2; //Subtração
 // total = 6 * 2; // Multiplicação
 // total = 6 / 2; // Divisão
 
-let num1 = 6;
-let num2 = 6;
-let total = num1 + num2; // outra forma de fazer
+//total = 10 % 3; // % = resto da divisão
+//total++; // incremento
+// total--; // decremento
+//total = 2 ** 3; // Exponenciação
 
 console.log(total);
