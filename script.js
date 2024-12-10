@@ -1,12 +1,11 @@
-// Convertions ou Casting
+// Operadores Aritméticos
+// let total = 6 + 6; //Adição
+// total = 6 - 2; //Subtração
+// total = 6 * 2; // Multiplicação
+// total = 6 / 2; // Divisão
 
-let age = 30;
-age = Boolean(age);
-console.log(age, typeof age);
+let num1 = 6;
+let num2 = 6;
+let total = num1 + num2;
 
-//Number para Boolean (true ou false)
-// Number 0 = false
-// Number 1... = true
-
-//age = age.toString() - usando o método toString
-// age = String(age); - usando o constructor
+console.log(total);
